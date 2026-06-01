@@ -1,0 +1,6 @@
+akshare
+pandas
+numpy
+matplotlib
+pymysql
+jupyter
